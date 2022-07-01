@@ -1,2 +1,3 @@
 numberOfCharactersInUserName = input("What is your name?");
-print(len(numberOfCharactersInUserName))
+length  = len(numberOfCharactersInUserName);
+print(length);
